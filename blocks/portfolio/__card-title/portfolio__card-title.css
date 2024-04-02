@@ -1,0 +1,15 @@
+.portfolio__card-title {
+  margin: 0;
+  text-align: center;
+  position: relative;
+  z-index: 3;
+  font: 700 16px/20px "Montserrat", sans-serif;
+  color: #fff;
+}
+
+@media screen and (max-width: 767px) {
+  .portfolio__card-title {
+    font-size: 12px;
+    line-height: 16px;
+  }
+}

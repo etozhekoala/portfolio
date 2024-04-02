@@ -1,0 +1,9 @@
+.portfolio__title-wrapper {
+  padding: 40px 0;
+}
+
+@media screen and (max-width: 767px) {
+  .portfolio__title-wrapper {
+    padding: 20px 0;
+  }
+}

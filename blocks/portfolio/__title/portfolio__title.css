@@ -1,0 +1,12 @@
+.portfolio__title {
+  margin: 0;
+  font: 700 32px/36px "Montserrat", sans-serif;
+  color: #141414;
+}
+
+@media screen and (max-width: 767px) {
+  .portfolio__title {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
